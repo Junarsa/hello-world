@@ -1,5 +1,6 @@
 # hello-world
-Just another repository
+Just another repository...
+
 Hi all !!
 Junarsa here, when covid-19 I should stay at home everyday.
 So I have a lot of time to start learning about computer proggram.
